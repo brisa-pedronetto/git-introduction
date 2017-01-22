@@ -21,3 +21,5 @@ pedro@brisa.is (feel free to shoot me a message in case you have questions after
 
 - Always good to check Wikipedia for a general overview 
   https://en.wikipedia.org/wiki/Git
+  
+- Tutorial for more advanced stuff http://learngitbranching.js.org/index.html
