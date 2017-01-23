@@ -14,6 +14,7 @@ function sayHello(language) {
         'is': 'Hæ',
         'en': 'Hello',
         'pt': 'Oi',
+        'de': 'Guten Tag',
     };
     
     // Handle non-existing languages
